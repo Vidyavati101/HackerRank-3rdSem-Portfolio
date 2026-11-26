@@ -32,5 +32,7 @@ Add your HackerRank Problem Solving or Java badge screenshot here after achievin
 - 04-Compare-the-Triplets
 - 05-Sparse-Arrays
 
+- https://www.hackerrank.com/profile/vidyavatisamdade
+
 ## Learning Outcome
 This activity helped me improve my Java programming and algorithmic problem-solving skills. I learned to work with arrays, lists, strings, loops, and hash maps. I also understood how to analyze time and space complexity and optimize solutions for better performance. Solving HackerRank problems improved my logical thinking, coding practice, and confidence in writing efficient programs.
