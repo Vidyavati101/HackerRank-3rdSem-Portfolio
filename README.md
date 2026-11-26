@@ -29,7 +29,7 @@ Accepted screenshots for all five problems are saved in their respective folders
 - 04-Compare-the-Triplets
 - 05-Sparse-Arrays
 
-- https://www.hackerrank.com/profile/vidyavatisamdade
+[- https://www.hackerrank.com/profile/vidyavatisamdade](https://www.hackerrank.com/profile/vidyavatisamdade)
 
 - ## HackerRank 3-Star Achievement
 
