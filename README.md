@@ -31,6 +31,10 @@ Accepted screenshots for all five problems are saved in their respective folders
 
 - https://www.hackerrank.com/profile/vidyavatisamdade
 
+- ## HackerRank 3-Star Achievement
+
+![3-Star Badge](3-star-badge.png)
+
 
 
 
