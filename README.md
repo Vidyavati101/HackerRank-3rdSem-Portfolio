@@ -22,9 +22,6 @@
 ## Submission Proof
 Accepted screenshots for all five problems are saved in their respective folders.
 
-## HackerRank Badge
-Add your HackerRank Problem Solving or Java badge screenshot here after achieving the required 3-Star Badge.
-
 ## Repository Structure
 - 01-Diagonal-Difference
 - 02-Dynamic-Array
@@ -33,6 +30,9 @@ Add your HackerRank Problem Solving or Java badge screenshot here after achievin
 - 05-Sparse-Arrays
 
 - https://www.hackerrank.com/profile/vidyavatisamdade
+
+
+
 
 ## Learning Outcome
 This activity helped me improve my Java programming and algorithmic problem-solving skills. I learned to work with arrays, lists, strings, loops, and hash maps. I also understood how to analyze time and space complexity and optimize solutions for better performance. Solving HackerRank problems improved my logical thinking, coding practice, and confidence in writing efficient programs.
